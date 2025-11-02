@@ -6,9 +6,13 @@ Este dashboard se basa en el dataset “Smart Fitness & Nutrition Analytics Data
 
 (2)	Contenido del dataset:
 El conjunto de datos integra múltiples dimensiones:
+
 •	Datos demográficos y de salud: edad, peso, altura, IMC(BMI), porcentaje de grasa corporal, masa magra estimada, etc.
+
 •	Datos de ejercicio: frecuencia cardíaca (BPM), duración de sesiones, tipo de entrenamiento, eficiencia del entrenamiento, etc.
+
 •	Datos nutricionales: consumo de calorías, proporción de macronutrientes (proteínas, grasas, carbohidratos), tipo de comidas, etc.
+
 •	Campos calculados: balance calórico, eficiencia del entrenamiento, composición corporal, entre otros indicadores clave.
 
 (3)	Descripción del Dashboard
@@ -30,9 +34,13 @@ This dashboard is based on the “Smart Fitness & Nutrition Analytics Dataset”
 
  (2) Dataset Content
 The dataset integrates multiple dimensions:
+
 •	Demographic and health data: age, weight, height, BMI, body fat percentage, estimated lean mass, etc.
+
 •	Exercise data: heart rate (BPM), session duration, workout type, workout efficiency, etc.
+
 •	Nutritional data: calorie intake, macronutrient ratios (protein, fats, carbs), meal types, etc.
+
 •	Calculated fields: calorie balance, training efficiency, body composition, and other key health indicators.
 
  (3) Dashboard Description
@@ -44,5 +52,6 @@ It includes interactive filters by gender, age group, and workout type.
 2.	Health Analysis
 3.	Exercise Analysis
 4.	Diet Analysis
+   
 Each main chart includes a “View Details” button, which allows users to navigate to a dedicated analysis page for that specific factor. This structure enables intuitive navigation and a deeper exploration of the data, promoting a clear understanding of the dynamics between physical activity, body health, and dietary habits.
 
