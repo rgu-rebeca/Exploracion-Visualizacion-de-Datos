@@ -20,6 +20,7 @@ Incluye filtros interactivos por género, grupo de edad y tipo de ejercicio.
 2.	Análisis de Salud
 3.	Análisis de Ejercicio
 4.	Análisis de Dieta
+   
 Cada gráfico principal incluye un botón de “ver detalles” que lleva al usuario a la página donde se permite al usuario profundizar en el análisis correspondiente. Esta estructura facilita una navegación intuitiva y una exploración detallada por parte del lector, promoviendo una comprensión clara de las dinámicas entre actividad física, salud corporal y hábitos alimenticios.
 
 English Version:
