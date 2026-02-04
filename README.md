@@ -1,5 +1,6 @@
-# Exploracion-y-Visualizacion-de-Datos---Practica
-Práctica de exploración y visualización de datos desarrollada en Power BI como parte de mi formación en Ciencia de Datos. Incluye la limpieza, análisis y visualización interactiva de un conjunto de datos, con el objetivo de identificar patrones y generar insights relevantes mediante dashboards dinámicos.
+# Exploracion-y-Visualizacion-de-Datos
+
+Proyecto de exploración y visualización de datos desarrollada en Power BI. Incluye la limpieza, análisis y visualización interactiva de un conjunto de datos, con el objetivo de identificar patrones y generar insights relevantes mediante dashboards dinámicos.
 
 (1)	Descripción del Dataset
 Este dashboard se basa en el dataset “Smart Fitness & Nutrition Analytics Dataset”, obtenido de Kaggle. Contiene información detallada sobre salud, ejercicio y nutrición de 20,000 individuos, lo que permite analizar cómo la dieta, las rutinas de ejercicio y la composición corporal influyen en el gasto calórico, el nivel de condición física y el rendimiento general en salud.
